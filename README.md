@@ -20,6 +20,7 @@
  * Chinachu用監視テンプレートの為のユーザパラメータ設定ファイル
 
  * zabbixの設定ファイルのインクルードディレクトリ(/etc/zabbix/zabbix_agentd.d/等)に配置
+ * jqコマンドが必要
 
 
 
